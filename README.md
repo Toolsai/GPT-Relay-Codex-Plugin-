@@ -16,9 +16,11 @@ It is designed for users who want Codex to ask ChatGPT with visible ChatGPT Inte
 
 ### Codex and ChatGPT Side-by-Side
 
-The video below shows Codex calling GPT Relay while Chrome opens ChatGPT, switches the requested visible model/mode/effort, sends the prompt, and returns the result.
+The demo below shows Codex calling GPT Relay while Chrome opens ChatGPT, switches the requested visible model/mode/effort, sends the prompt, and returns the result.
 
-<video src="./media/gpt-relay-demo.mp4" controls width="100%"></video>
+[![Watch the GPT Relay demo](./media/gpt-relay-demo-thumbnail.png)](./media/gpt-relay-demo.mp4)
+
+Click the preview image or use the link below to open the video.
 
 [Open the demo video](./media/gpt-relay-demo.mp4)
 

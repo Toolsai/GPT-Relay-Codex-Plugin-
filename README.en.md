@@ -40,6 +40,7 @@ plugins/gpt-relay/
   assets/logo.png
 media/
   plugin-install-screen.png
+  gpt-relay-demo-thumbnail.png
   gpt-relay-demo.mp4
 ```
 
